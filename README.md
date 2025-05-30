@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danisherror&label=Profile%20views&color=0e75b6&style=flat" alt="danisherror" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danisherror" alt="danisherror" /></a> </p>
 
 - 🔭 I’m currently working on [frontend_for_notes_expense_stocks](https://github.com/danisherror/frontend_for_notes_expense_stocks)
 
