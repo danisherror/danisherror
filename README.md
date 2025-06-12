@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Danish Mahajan</h1>
-<h3 align="center">qwertyuiopasdfghjklzxcvbnmm</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danisherror&label=Profile%20views&color=0e75b6&style=flat" alt="danisherror" /> </p>
 
