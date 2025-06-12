@@ -3,23 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danisherror&label=Profile%20views&color=0e75b6&style=flat" alt="danisherror" /> </p>
 
-
-- 🔭 I’m currently working on [frontend_for_notes_expense_stocks](https://github.com/danisherror/frontend_for_notes_expense_stocks)
-
-- 🌱 I’m currently learning **FastApi, React, logging in python**
-
-- 👯 I’m looking to collaborate on [frontend_for_notes_expense_stocks](https://github.com/danisherror/frontend_for_notes_expense_stocks)
-
-- 🤝 I’m looking for help with [logging-in-fastapi](https://github.com/danisherror/logging-in-fastapi)
-
-- 👨‍💻 All of my projects are available at [https://github.com/danisherror?tab=repositories](https://github.com/danisherror?tab=repositories)
-
-- 💬 Ask me about **DSA, C++, React, Python, FastApi, Nodejs**
-
-- 📫 How to reach me **https://www.linkedin.com/in/danish-mahajan-9a3408203/**
-
-- ⚡ Fun fact **Working on one project and will start new projects related to that project. Example I made a backend in FastApi then started doing a project in which instead of showing logs of FastApi in console, I tried to store them in a log file**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/danish mahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danish mahajan" height="30" width="40" /></a>
