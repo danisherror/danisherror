@@ -3,9 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danisherror&label=Profile%20views&color=0e75b6&style=flat" alt="danisherror" /> </p>
 ----
 <h2>Projects</h2>
----
 
-Productivity Manager – Full-stack web app (React, Node.js, Express, MongoDB) with JWT authentication, Kanban board, daily timetable & expense tracking, and analytics dashboards with charts/heatmaps.
 
 
 ### **Productivity Manager** | *React, Node.js, Express, MongoDB, JWT*
@@ -17,11 +15,23 @@ Productivity Manager – Full-stack web app (React, Node.js, Express, MongoDB) w
 * Developed an **expense tracker** allowing users to categorize and analyze spending; integrated **charts and graphs** for financial insights over custom date ranges.
 * Visualized user engagement with a **heatmap of daily logins**, providing a clear view of usage trends.
 * Delivered an interactive and data-driven user experience with **analytics dashboards, charts, and reports**.
-
+  
 **Key Skills:** React, Node.js, Express, MongoDB, JWT Authentication, REST APIs, Data Visualization (Charts/Graphs), User Analytics, Kanban Board, Expense Tracking
+Productivity Manager – Full-stack web app (React, Node.js, Express, MongoDB) with JWT authentication, Kanban board, daily timetable & expense tracking, and analytics dashboards with charts/heatmaps.
 
+---
 
+### **Distributed MongoDB Cluster with Coordinator Election & Replication**
 
+* Built a **high-availability MongoDB cluster** with multiple nodes supporting automatic failover and role management (master/slave).
+* Implemented **coordinator election** using term comparison; triggers automatic re-election if master fails.
+* Developed **data replication system**: writes/updates on master propagate to all alive slaves; reconnections sync data from master.
+* Exposed **RESTful APIs** for writing, reading, updating, and monitoring node status (`/api/write`, `/api/read/:dbId`, `/api/update/:id`, `/api/status`).
+* Maintained **cluster metadata** with term management to ensure data consistency and prevent split-brain scenarios.
+* Added **robust logging** and async handling for connections, elections, and data synchronization.
+  
+* **Tech Stack:** Node.js, Express, MongoDB, Mongoose, dotenv, async/await.
+Distributed MongoDB cluster with automatic coordinator election, master-slave replication, and RESTful APIs for data management.
 
 
 
