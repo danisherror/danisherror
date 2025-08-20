@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danish Mahajan</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danisherror&label=Profile%20views&color=0e75b6&style=flat" alt="danisherror" /> </p>
-----
+
 <h2>Projects</h2>
 
 
@@ -17,6 +17,7 @@
 * Delivered an interactive and data-driven user experience with **analytics dashboards, charts, and reports**.
   
 **Key Skills:** React, Node.js, Express, MongoDB, JWT Authentication, REST APIs, Data Visualization (Charts/Graphs), User Analytics, Kanban Board, Expense Tracking
+
 Productivity Manager – Full-stack web app (React, Node.js, Express, MongoDB) with JWT authentication, Kanban board, daily timetable & expense tracking, and analytics dashboards with charts/heatmaps.
 
 ---
@@ -31,6 +32,7 @@ Productivity Manager – Full-stack web app (React, Node.js, Express, MongoDB) w
 * Added **robust logging** and async handling for connections, elections, and data synchronization.
   
 * **Tech Stack:** Node.js, Express, MongoDB, Mongoose, dotenv, async/await.
+  
 Distributed MongoDB cluster with automatic coordinator election, master-slave replication, and RESTful APIs for data management.
 
 
