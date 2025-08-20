@@ -22,7 +22,7 @@ Productivity Manager – Full-stack web app (React, Node.js, Express, MongoDB) w
 
 ---
 
-### **Distributed MongoDB Cluster with Coordinator Election & Replication**
+### **Distributed MongoDB Cluster with Coordinator Election & Replication(Mogodb_replica)**
 
 * Built a **high-availability MongoDB cluster** with multiple nodes supporting automatic failover and role management (master/slave).
 * Implemented **coordinator election** using term comparison; triggers automatic re-election if master fails.
@@ -31,7 +31,7 @@ Productivity Manager – Full-stack web app (React, Node.js, Express, MongoDB) w
 * Maintained **cluster metadata** with term management to ensure data consistency and prevent split-brain scenarios.
 * Added **robust logging** and async handling for connections, elections, and data synchronization.
   
-* **Tech Stack:** Node.js, Express, MongoDB, Mongoose, dotenv, async/await.
+**Tech Stack:** Node.js, Express, MongoDB, Mongoose, dotenv, async/await.
   
 Distributed MongoDB cluster with automatic coordinator election, master-slave replication, and RESTful APIs for data management.
 
