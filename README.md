@@ -50,7 +50,7 @@
 - **Tech Stack:** Node.js, Express, http-proxy-middleware, geoip-lite  
 
 ## 🎯 Looking For
-Opportunities in full-stack development, backend engineering, or data-driven web applications.
+Opportunities in full-stack development, backend engineering, network engineering, or data-driven web applications.
 
 
 ## 📫 Connect with me
