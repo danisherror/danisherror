@@ -13,7 +13,7 @@
 
 **Tech Stack:** React, Node.js, Express, MongoDB, JWT, Charts/Graphs  
 
----
+
 
 ### **[Notes, Expense & Stocks Manager](https://github.com/danisherror/frontend_for_notes_expense_stocks)**
 - Full-stack app with **React frontend** and **Node.js/Express backend**, using MongoDB for storage.
