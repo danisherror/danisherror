@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danish Mahajan</h1>
-<p align="center">Full-stack developer passionate about building scalable web applications, analytics dashboards, and productivity tools.</p>
+<p align="center">Full-stack developer building scalable web apps, analytics dashboards, and productivity tools.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danisherror&label=Profile%20views&color=0e75b6&style=flat" alt="danisherror" /> </p>
 
@@ -55,6 +55,11 @@
 - Automated data collection for **real-time and historical analysis** using `yfinance` and `pandas`.
 
 **Tech Stack:** Python, yfinance, pandas  
+
+---
+
+## 🎯 Looking For
+Opportunities in full-stack development, backend engineering, or data-driven web applications.
 
 ---
 
