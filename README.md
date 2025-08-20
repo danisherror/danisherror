@@ -4,6 +4,7 @@
 ----
 <h2>Projects</h2>
 ---
+
 Productivity Manager – Full-stack web app (React, Node.js, Express, MongoDB) with JWT authentication, Kanban board, daily timetable & expense tracking, and analytics dashboards with charts/heatmaps.
 
 
