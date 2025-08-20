@@ -36,7 +36,17 @@ Productivity Manager – Full-stack web app (React, Node.js, Express, MongoDB) w
 Distributed MongoDB cluster with automatic coordinator election, master-slave replication, and RESTful APIs for data management.
 
 
+### **Node.js Load Balancer with Health Checks & GeoIP Logging(Load_Balancer)**
 
+* Built a **custom HTTP load balancer** in Node.js using `express` and `http-proxy-middleware`.
+* Implemented **round-robin request distribution** among multiple backend servers with **request counting** per server.
+* Added **health check monitoring**: periodically checks `/health` endpoint of each backend and updates available servers.
+* Integrated **GeoIP lookup** to log client location based on IP, while skipping private/local IPs.
+* Handles edge cases: returns **503 when all servers are down** and ensures smooth failover.
+
+**Tech Stack:** Node.js, Express, http-proxy-middleware, geoip-lite, HTTP module.
+
+Node.js load balancer with round-robin routing, health checks, request tracking, and GeoIP logging.
 
 
 
