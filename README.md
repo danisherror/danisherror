@@ -18,7 +18,7 @@
   
 **Key Skills:** React, Node.js, Express, MongoDB, JWT Authentication, REST APIs, Data Visualization (Charts/Graphs), User Analytics, Kanban Board, Expense Tracking
 
-Productivity Manager – Full-stack web app (React, Node.js, Express, MongoDB) with JWT authentication, Kanban board, daily timetable & expense tracking, and analytics dashboards with charts/heatmaps.
+**"Productivity Manager – Full-stack web app (React, Node.js, Express, MongoDB) with JWT authentication, Kanban board, daily timetable & expense tracking, and analytics dashboards with charts/heatmaps."**
 
 ---
 
@@ -33,7 +33,7 @@ Productivity Manager – Full-stack web app (React, Node.js, Express, MongoDB) w
   
 **Tech Stack:** Node.js, Express, MongoDB, Mongoose, dotenv, async/await.
   
-Distributed MongoDB cluster with automatic coordinator election, master-slave replication, and RESTful APIs for data management.
+**"Distributed MongoDB cluster with automatic coordinator election, master-slave replication, and RESTful APIs for data management."**
 
 ---
 
@@ -47,7 +47,7 @@ Distributed MongoDB cluster with automatic coordinator election, master-slave re
 
 **Tech Stack:** Node.js, Express, http-proxy-middleware, geoip-lite, HTTP module.
 
-Node.js load balancer with round-robin routing, health checks, request tracking, and GeoIP logging.
+**"Node.js load balancer with round-robin routing, health checks, request tracking, and GeoIP logging."**
 
 ---
 
@@ -70,7 +70,7 @@ Node.js load balancer with round-robin routing, health checks, request tracking,
 
 ---
 
-### **Logging System in FastAPI**
+### **Logging System in FastAPI(logging-in-fastapi)**
 
 * Implemented a **centralized logging system** in a FastAPI application.
 * Captured and stored all application logs into a **`.log` file** using Python’s built-in `logging` module.
@@ -82,17 +82,20 @@ Node.js load balancer with round-robin routing, health checks, request tracking,
 
 **"Implemented a logging system in FastAPI to capture and save console logs into a `.log` file using Python's built-in logging module."**
 
+---
 
 
+### **Historical and Live Stock Data Collector(historical-and-live-data-fro-stocks)**
 
+* Developed a **Python script** to fetch **historical and live stock data** for NSE-listed companies.
+* Validated stock symbols against an **official list**, separating valid and invalid tickers.
+* Stored invalid tickers into a **file** for record-keeping and further analysis.
+* Automated data fetching and validation to support **real-time and historical stock analysis**.
+* Ensured **robust data handling** using Python libraries like `yfinance` and `pandas`.
 
+**Tech Stack:** Python, yfinance, pandas, file I/O.
 
-
-
-
-
-
-
+**"Developed a Python script using yfinance to fetch historical and live stock data for NSE-listed companies, validating symbols against an official list and categorizing them as valid or invalid."**
 
 -----------
 <h3 align="left">Connect with me:</h3>
