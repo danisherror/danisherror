@@ -10,8 +10,7 @@
 - Full-stack productivity platform with **Kanban boards, daily timetable, expense tracker**, and analytics dashboards.
 - Implemented **JWT-based authentication**: signup, login, email verification, forgot/reset password.
 - Visualized **user engagement** and productivity insights using **charts and heatmaps**.
-
-**Tech Stack:** React, Node.js, Express, MongoDB, JWT, Charts/Graphs  
+- **Tech Stack:** React, Node.js, Express, MongoDB, JWT, Charts/Graphs  
 
 
 
@@ -19,24 +18,21 @@
 - Full-stack app with **React frontend** and **Node.js/Express backend**, using MongoDB for storage.
 - Implemented **CRUD operations, filtering, searching, and analytics dashboards**.
 - Secured with **JWT authentication**.
-
-**Tech Stack:** React, Node.js, Express, MongoDB, JWT, Axios  
+- **Tech Stack:** React, Node.js, Express, MongoDB, JWT, Axios  
 
 
 
 ### **[FastAPI Logging System](https://github.com/danisherror/logging-in-fastapi)**
 - Built a **centralized logging system** storing all logs in `.log` files.
 - Configured **log levels and formatting** for easier debugging and API monitoring.
-
-**Tech Stack:** Python, FastAPI, logging module  
+- **Tech Stack:** Python, FastAPI, logging module  
 
 
 
 ### **[Historical & Live Stock Data Collector](https://github.com/danisherror/historical-and-live-data-fro-stocks)**
 - Python script to fetch **historical and live NSE stock data**, validating tickers and storing invalid entries.
 - Automated data collection for **real-time and historical analysis** using `yfinance` and `pandas`.
-
-**Tech Stack:** Python, yfinance, pandas  
+- **Tech Stack:** Python, yfinance, pandas  
 
 
 
@@ -44,16 +40,14 @@
 - Built a **high-availability MongoDB cluster** with automatic master/slave coordinator election and failover.
 - Implemented **data replication**: master writes propagate to slaves; nodes resync on reconnect.
 - Exposed **REST APIs** for read/write/update/status with metadata term management.
-
-**Tech Stack:** Node.js, Express, MongoDB, Mongoose  
+- **Tech Stack:** Node.js, Express, MongoDB, Mongoose  
 
 
 
 ### **[Node.js Load Balancer](https://github.com/danisherror/load_balancer)**
 - Custom **HTTP load balancer** with **round-robin routing, request tracking, and health checks**.
 - Integrated **GeoIP logging** and handled failover when all servers are down.
-
-**Tech Stack:** Node.js, Express, http-proxy-middleware, geoip-lite  
+- **Tech Stack:** Node.js, Express, http-proxy-middleware, geoip-lite  
 
 ## 🎯 Looking For
 Opportunities in full-stack development, backend engineering, or data-driven web applications.
