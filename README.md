@@ -35,6 +35,7 @@ Productivity Manager – Full-stack web app (React, Node.js, Express, MongoDB) w
   
 Distributed MongoDB cluster with automatic coordinator election, master-slave replication, and RESTful APIs for data management.
 
+---
 
 ### **Node.js Load Balancer with Health Checks & GeoIP Logging(Load_Balancer)**
 
@@ -47,6 +48,27 @@ Distributed MongoDB cluster with automatic coordinator election, master-slave re
 **Tech Stack:** Node.js, Express, http-proxy-middleware, geoip-lite, HTTP module.
 
 Node.js load balancer with round-robin routing, health checks, request tracking, and GeoIP logging.
+
+---
+
+### **Full-Stack Notes, Expense, and Stocks Manager**
+(frontend_for_notes_expense_stocks & backend_for_notes_expense_stocks)
+
+**Key Features & Work Done:**
+
+* Developed **frontend** in **React** and **backend** in **Node.js + Express**, with **MongoDB** for data storage.
+* Implemented **user authentication** with JWT tokens for secure login/signup.
+* Built **Notes Management**: create, edit, delete, and categorize notes with tagging and folder support.
+* Built **Expense Tracker**: record, categorize, and analyze expenses; includes splitting and tracking amounts per person.
+* Built **Stocks Module**: add, track, buy/sell stocks, store historical data, and maintain portfolio analytics.
+* Implemented **RESTful APIs** connecting frontend and backend for seamless CRUD operations.
+* Added **data filtering, searching, and analytics** on notes, expenses, and stock transactions.
+
+**Tech Stack:** React, Node.js, Express, MongoDB, JWT, Axios for API calls, and charting for data visualization.
+
+**Full-stack Notes, Expense, and Stocks Manager with React frontend, Node.js/Express backend, JWT authentication, and analytics dashboards.**
+
+---
 
 
 
