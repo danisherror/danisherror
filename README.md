@@ -16,23 +16,6 @@
 
 ---
 
-### **[Distributed MongoDB Cluster](https://github.com/danisherror/mogodb_replica)**
-- Built a **high-availability MongoDB cluster** with automatic master/slave coordinator election and failover.
-- Implemented **data replication**: master writes propagate to slaves; nodes resync on reconnect.
-- Exposed **REST APIs** for read/write/update/status with metadata term management.
-
-**Tech Stack:** Node.js, Express, MongoDB, Mongoose  
-
----
-
-### **[Node.js Load Balancer](https://github.com/danisherror/load_balancer)**
-- Custom **HTTP load balancer** with **round-robin routing, request tracking, and health checks**.
-- Integrated **GeoIP logging** and handled failover when all servers are down.
-
-**Tech Stack:** Node.js, Express, http-proxy-middleware, geoip-lite  
-
----
-
 ### **[Notes, Expense & Stocks Manager](https://github.com/danisherror/frontend_for_notes_expense_stocks)**
 - Full-stack app with **React frontend** and **Node.js/Express backend**, using MongoDB for storage.
 - Implemented **CRUD operations, filtering, searching, and analytics dashboards**.
@@ -55,6 +38,23 @@
 - Automated data collection for **real-time and historical analysis** using `yfinance` and `pandas`.
 
 **Tech Stack:** Python, yfinance, pandas  
+
+---
+
+### **[Distributed MongoDB Cluster](https://github.com/danisherror/mogodb_replica)**
+- Built a **high-availability MongoDB cluster** with automatic master/slave coordinator election and failover.
+- Implemented **data replication**: master writes propagate to slaves; nodes resync on reconnect.
+- Exposed **REST APIs** for read/write/update/status with metadata term management.
+
+**Tech Stack:** Node.js, Express, MongoDB, Mongoose  
+
+---
+
+### **[Node.js Load Balancer](https://github.com/danisherror/load_balancer)**
+- Custom **HTTP load balancer** with **round-robin routing, request tracking, and health checks**.
+- Integrated **GeoIP logging** and handled failover when all servers are down.
+
+**Tech Stack:** Node.js, Express, http-proxy-middleware, geoip-lite  
 
 ---
 
