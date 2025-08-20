@@ -82,4 +82,7 @@ Opportunities in full-stack development, backend engineering, or data-driven web
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
-</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danisherror&show_icons=true&locale=en&layout=compact" alt="top languages" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danisherror&show_icons=true&locale=en" alt="github stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danisherror&" alt="streak stats" /></p>
