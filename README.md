@@ -1,7 +1,43 @@
 <h1 align="center">Hi 👋, I'm Danish Mahajan</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danisherror&label=Profile%20views&color=0e75b6&style=flat" alt="danisherror" /> </p>
+----
+<h2>Projects</h2>
+---
+Productivity Manager – Full-stack web app (React, Node.js, Express, MongoDB) with JWT authentication, Kanban board, daily timetable & expense tracking, and analytics dashboards with charts/heatmaps.
 
+
+### **Productivity Manager** | *React, Node.js, Express, MongoDB, JWT*
+
+* Built a **full-stack productivity management platform** with React (frontend), Node.js/Express (backend), and MongoDB (database).
+* Implemented **user authentication** with JWT, supporting signup, login, email verification, forgot/reset password, and secure password change.
+* Designed a **Kanban board system** enabling users to create, edit, delete boards, add tables, and use **drag-and-drop** to move tasks between stages.
+* Added a **daily timetable tracker** where users log activities and view insights on **time spent vs. wasted time**, encouraging productivity improvement.
+* Developed an **expense tracker** allowing users to categorize and analyze spending; integrated **charts and graphs** for financial insights over custom date ranges.
+* Visualized user engagement with a **heatmap of daily logins**, providing a clear view of usage trends.
+* Delivered an interactive and data-driven user experience with **analytics dashboards, charts, and reports**.
+
+**Key Skills:** React, Node.js, Express, MongoDB, JWT Authentication, REST APIs, Data Visualization (Charts/Graphs), User Analytics, Kanban Board, Expense Tracking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/danish-mahajan-9a3408203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danish mahajan" height="30" width="40" /></a>
