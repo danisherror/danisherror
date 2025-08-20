@@ -22,7 +22,7 @@
 
 **Tech Stack:** React, Node.js, Express, MongoDB, JWT, Axios  
 
----
+
 
 ### **[FastAPI Logging System](https://github.com/danisherror/logging-in-fastapi)**
 - Built a **centralized logging system** storing all logs in `.log` files.
@@ -30,7 +30,7 @@
 
 **Tech Stack:** Python, FastAPI, logging module  
 
----
+
 
 ### **[Historical & Live Stock Data Collector](https://github.com/danisherror/historical-and-live-data-fro-stocks)**
 - Python script to fetch **historical and live NSE stock data**, validating tickers and storing invalid entries.
@@ -38,7 +38,7 @@
 
 **Tech Stack:** Python, yfinance, pandas  
 
----
+
 
 ### **[Distributed MongoDB Cluster](https://github.com/danisherror/mogodb_replica)**
 - Built a **high-availability MongoDB cluster** with automatic master/slave coordinator election and failover.
@@ -47,7 +47,7 @@
 
 **Tech Stack:** Node.js, Express, MongoDB, Mongoose  
 
----
+
 
 ### **[Node.js Load Balancer](https://github.com/danisherror/load_balancer)**
 - Custom **HTTP load balancer** with **round-robin routing, request tracking, and health checks**.
