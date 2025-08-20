@@ -70,6 +70,18 @@ Node.js load balancer with round-robin routing, health checks, request tracking,
 
 ---
 
+### **Logging System in FastAPI**
+
+* Implemented a **centralized logging system** in a FastAPI application.
+* Captured and stored all application logs into a **`.log` file** using Python’s built-in `logging` module.
+* Configured **log formatting and log levels** (INFO, WARNING, ERROR) for better readability and debugging.
+* Ensured logs are **persisted across requests**, making it easy to track application behavior over time.
+* Integrated logging in **API endpoints** to monitor requests and responses.
+
+**Tech Stack:** Python, FastAPI, Logging module.
+
+**"Implemented a logging system in FastAPI to capture and save console logs into a `.log` file using Python's built-in logging module."**
+
 
 
 
