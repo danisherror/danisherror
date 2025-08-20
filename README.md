@@ -2,100 +2,65 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danisherror&label=Profile%20views&color=0e75b6&style=flat" alt="danisherror" /> </p>
 
-<h2>Projects</h2>
 
+---
 
+## **Projects**
 
 ### **Productivity Manager** | *React, Node.js, Express, MongoDB, JWT*
 
-* Built a **full-stack productivity management platform** with React (frontend), Node.js/Express (backend), and MongoDB (database).
-* Implemented **user authentication** with JWT, supporting signup, login, email verification, forgot/reset password, and secure password change.
-* Designed a **Kanban board system** enabling users to create, edit, delete boards, add tables, and use **drag-and-drop** to move tasks between stages.
-* Added a **daily timetable tracker** where users log activities and view insights on **time spent vs. wasted time**, encouraging productivity improvement.
-* Developed an **expense tracker** allowing users to categorize and analyze spending; integrated **charts and graphs** for financial insights over custom date ranges.
-* Visualized user engagement with a **heatmap of daily logins**, providing a clear view of usage trends.
-* Delivered an interactive and data-driven user experience with **analytics dashboards, charts, and reports**.
-  
-**Key Skills:** React, Node.js, Express, MongoDB, JWT Authentication, REST APIs, Data Visualization (Charts/Graphs), User Analytics, Kanban Board, Expense Tracking
+* Full-stack productivity platform with **Kanban boards, daily timetable, expense tracker**, and analytics dashboards.
+* Implemented **user authentication** with JWT: signup, login, email verification, forgot/reset password, and secure password change.
+* Visualized **user engagement** with a heatmap and **time/expense analytics** using charts and reports.
 
-**"Productivity Manager – Full-stack web app (React, Node.js, Express, MongoDB) with JWT authentication, Kanban board, daily timetable & expense tracking, and analytics dashboards with charts/heatmaps."**
+**Tech Stack:** React, Node.js, Express, MongoDB, JWT, Charts/Graphs
 
 ---
 
-### **Distributed MongoDB Cluster with Coordinator Election & Replication(Mogodb_replica)**
+### **Distributed MongoDB Cluster (Mogodb\_replica)**
 
-* Built a **high-availability MongoDB cluster** with multiple nodes supporting automatic failover and role management (master/slave).
-* Implemented **coordinator election** using term comparison; triggers automatic re-election if master fails.
-* Developed **data replication system**: writes/updates on master propagate to all alive slaves; reconnections sync data from master.
-* Exposed **RESTful APIs** for writing, reading, updating, and monitoring node status (`/api/write`, `/api/read/:dbId`, `/api/update/:id`, `/api/status`).
-* Maintained **cluster metadata** with term management to ensure data consistency and prevent split-brain scenarios.
-* Added **robust logging** and async handling for connections, elections, and data synchronization.
-  
-**Tech Stack:** Node.js, Express, MongoDB, Mongoose, dotenv, async/await.
-  
-**"Distributed MongoDB cluster with automatic coordinator election, master-slave replication, and RESTful APIs for data management."**
+* Built **high-availability MongoDB cluster** with automatic master/slave coordinator election and failover.
+* Implemented **data replication**: master writes propagate to slaves; nodes resync after reconnection.
+* Exposed **RESTful APIs** for read/write/update/status with metadata term management to maintain consistency.
+
+**Tech Stack:** Node.js, Express, MongoDB, Mongoose
 
 ---
 
-### **Node.js Load Balancer with Health Checks & GeoIP Logging(Load_Balancer)**
+### **Node.js Load Balancer (Load\_Balancer)**
 
-* Built a **custom HTTP load balancer** in Node.js using `express` and `http-proxy-middleware`.
-* Implemented **round-robin request distribution** among multiple backend servers with **request counting** per server.
-* Added **health check monitoring**: periodically checks `/health` endpoint of each backend and updates available servers.
-* Integrated **GeoIP lookup** to log client location based on IP, while skipping private/local IPs.
-* Handles edge cases: returns **503 when all servers are down** and ensures smooth failover.
+* Custom **HTTP load balancer** with **round-robin routing**, request tracking, and health checks.
+* Integrated **GeoIP logging** and handled failover when all servers are down.
 
-**Tech Stack:** Node.js, Express, http-proxy-middleware, geoip-lite, HTTP module.
-
-**"Node.js load balancer with round-robin routing, health checks, request tracking, and GeoIP logging."**
+**Tech Stack:** Node.js, Express, http-proxy-middleware, geoip-lite
 
 ---
 
-### **Full-Stack Notes, Expense, and Stocks Manager**
-(frontend_for_notes_expense_stocks & backend_for_notes_expense_stocks)
+### **Notes, Expense & Stocks Manager**
 
-**Key Features & Work Done:**
+* Full-stack app with **React frontend** and **Node.js/Express backend**, using MongoDB for storage.
+* Implemented **CRUD functionality** for notes, expenses, and stocks with filtering, searching, and analytics.
+* User authentication with **JWT** and **secure session handling**.
 
-* Developed **frontend** in **React** and **backend** in **Node.js + Express**, with **MongoDB** for data storage.
-* Implemented **user authentication** with JWT tokens for secure login/signup.
-* Built **Notes Management**: create, edit, delete, and categorize notes with tagging and folder support.
-* Built **Expense Tracker**: record, categorize, and analyze expenses; includes splitting and tracking amounts per person.
-* Built **Stocks Module**: add, track, buy/sell stocks, store historical data, and maintain portfolio analytics.
-* Implemented **RESTful APIs** connecting frontend and backend for seamless CRUD operations.
-* Added **data filtering, searching, and analytics** on notes, expenses, and stock transactions.
-
-**Tech Stack:** React, Node.js, Express, MongoDB, JWT, Axios for API calls, and charting for data visualization.
-
-**Full-stack Notes, Expense, and Stocks Manager with React frontend, Node.js/Express backend, JWT authentication, and analytics dashboards.**
+**Tech Stack:** React, Node.js, Express, MongoDB, JWT, Axios
 
 ---
 
-### **Logging System in FastAPI(logging-in-fastapi)**
+### **FastAPI Logging System (logging-in-fastapi)**
 
-* Implemented a **centralized logging system** in a FastAPI application.
-* Captured and stored all application logs into a **`.log` file** using Python’s built-in `logging` module.
-* Configured **log formatting and log levels** (INFO, WARNING, ERROR) for better readability and debugging.
-* Ensured logs are **persisted across requests**, making it easy to track application behavior over time.
-* Integrated logging in **API endpoints** to monitor requests and responses.
+* Built **centralized logging system** storing all application logs in `.log` files.
+* Configured **log levels and formatting** for easier debugging and API request tracking.
 
-**Tech Stack:** Python, FastAPI, Logging module.
-
-**"Implemented a logging system in FastAPI to capture and save console logs into a `.log` file using Python's built-in logging module."**
+**Tech Stack:** Python, FastAPI, logging module
 
 ---
 
+### **Historical & Live Stock Data Collector**
 
-### **Historical and Live Stock Data Collector(historical-and-live-data-fro-stocks)**
+* Python script to fetch **historical and live NSE stock data**, validating tickers and storing invalid entries.
+* Automated data collection for **real-time and historical analysis** using `yfinance` and `pandas`.
 
-* Developed a **Python script** to fetch **historical and live stock data** for NSE-listed companies.
-* Validated stock symbols against an **official list**, separating valid and invalid tickers.
-* Stored invalid tickers into a **file** for record-keeping and further analysis.
-* Automated data fetching and validation to support **real-time and historical stock analysis**.
-* Ensured **robust data handling** using Python libraries like `yfinance` and `pandas`.
-
-**Tech Stack:** Python, yfinance, pandas, file I/O.
-
-**"Developed a Python script using yfinance to fetch historical and live stock data for NSE-listed companies, validating symbols against an official list and categorizing them as valid or invalid."**
+**Tech Stack:** Python, yfinance, pandas
 
 -----------
 <h3 align="left">Connect with me:</h3>
