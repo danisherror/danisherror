@@ -21,7 +21,7 @@
 - **Tech Stack:** React, Node.js, Express, MongoDB, JWT, Axios  
 
 
-###**[MediMind](https://github.com/danisherror/mini-project) | Python, TensorFlow, Scikit-learn, Flask, MongoDB**
+### **[MediMind](https://github.com/danisherror/mini-project)**
 - Built an AI-powered healthcare platform for disease prediction and electronic health record (EHR) management.
 - Implemented CNN (ResNet-50) for skin disease classification, achieving **74% accuracy**.
 - Developed ML models (Logistic Regression, SVM) for diabetes & heart disease prediction with **82% accuracy**.
