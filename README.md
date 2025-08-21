@@ -6,7 +6,15 @@
 
 ## 🚀 Projects
 
-### **[Productivity Manager](https://github.com/danisherror/productivity_manager)** | *React, Node.js, Express, MongoDB, JWT*
+
+### **[Hostel Management System](https://github.com/danisherror/Hostel_management)**
+- Full-stack hostel management platform with room allocation, leave & complaint management, announcements, and QR-based check-in/out.
+- Implemented role-based access: Student, Warden, Admin, with personalized dashboards and analytics for complaints, occupancy, and feedback.
+- Visualized hostel data and student activity using charts and graphs for better decision-making.
+- **Tech Stack:** React, Node.js, Express, MongoDB, JWT, Charts/Graphs
+
+
+### **[Productivity Manager](https://github.com/danisherror/productivity_manager)**
 - Full-stack productivity platform with **Kanban boards, daily timetable, expense tracker**, and analytics dashboards.
 - Implemented **JWT-based authentication**: signup, login, email verification, forgot/reset password.
 - Visualized **user engagement** and productivity insights using **charts and heatmaps**.
