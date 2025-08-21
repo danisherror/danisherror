@@ -21,6 +21,14 @@
 - **Tech Stack:** React, Node.js, Express, MongoDB, JWT, Axios  
 
 
+###**[MediMind](https://github.com/danisherror/mini-project) | Python, TensorFlow, Scikit-learn, Flask, MongoDB**
+- Built an AI-powered healthcare platform for disease prediction and electronic health record (EHR) management.
+- Implemented CNN (ResNet-50) for skin disease classification, achieving **74% accuracy**.
+- Developed ML models (Logistic Regression, SVM) for diabetes & heart disease prediction with **82% accuracy**.
+- Designed a secure EHR system to integrate ML predictions for patients and doctors.
+- **Tech Stack:** Python, TensorFlow, Keras, Scikit-learn, Flask, MongoDB, Pandas, NumPy.
+
+
 
 ### **[FastAPI Logging System](https://github.com/danisherror/logging-in-fastapi)**
 - Built a **centralized logging system** storing all logs in `.log` files.
