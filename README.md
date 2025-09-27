@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danisherror&label=Profile%20views&color=0e75b6&style=flat" alt="danisherror" /> </p>
 
-
+<!--
 ## 🚀 Projects
 
 
@@ -64,7 +64,7 @@
 - Custom **HTTP load balancer** with **round-robin routing, request tracking, and health checks**.
 - Integrated **GeoIP logging** and handled failover when all servers are down.
 - **Tech Stack:** Node.js, Express, http-proxy-middleware, geoip-lite  
-
+-->
 ## 🎯 Looking For
 Opportunities in full-stack development, backend engineering, network engineering, or data-driven web applications.
 
