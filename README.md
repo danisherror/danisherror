@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danish Mahajan</h1>
-<p align="center">Full-stack developer building scalable web apps, analytics dashboards, and productivity tools.</p>
+<p align="center">I’m a Research and Development Engineer at Tejas Networks with over a year of experience building scalable and resilient backend systems. I specialize in Java, C++, Spring Boot, Kafka, and PostgreSQL, focusing on performance, reliability, and distributed system design. I’ve developed real-time monitoring and automation platforms that improved efficiency and fault tolerance across large-scale environments. Passionate about system reliability, backend architecture, and problem-solving, I’ve solved 500+ DSA problems on LeetCode and GFG. I’m always eager to take on challenging engineering problems that push the boundaries of scalability and robustness.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danisherror&label=Profile%20views&color=0e75b6&style=flat" alt="danisherror" /> </p>
 
