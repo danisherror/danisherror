@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danisherror&label=Profile%20views&color=0e75b6&style=flat" alt="danisherror" /> </p>
 
+> With books unread, muscles untrained and thousands of skills untouched — if you are bored you're not even trying.
+
 ## 🎯 Looking For
 Opportunities in full-stack development, backend engineering, network engineering, or data-driven web applications.
 
